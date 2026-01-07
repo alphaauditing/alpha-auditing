@@ -53,7 +53,42 @@ A live public deployment of this template is available at [https://openapi-templ
    ```bash
    npx wrangler tail
    ```
+<p>Alpha Auditing is one of the leading auditing and accounting firms in Dubai, UAE. We are offering a range of financial services including </p>
+<ul>
+    <li><strong><a href="https://www.alphaauditing.ae/audit-services-in-dubai/">Audit Services in Dubai</a></strong>
+        <ul>
+            <li><a href="https://www.alphaauditing.ae/financial-audit-services-dubai/">Financial Auditing</a></li>
+            <li><a href="https://www.alphaauditing.ae/internal-audit-services-in-dubai-uae/">Internal Auditing </a></li>
+          <li><a href="https://www.alphaauditing.ae/tax-audit-services-in-uae/">Tax Audit</a></li>
+            <li><a href="https://www.alphaauditing.ae/audit-in-free-zones-uae/">Audit for Free Zone</a></li>
+    <li><a href="https://www.alphaauditing.ae/audit-firms-uae/">Audit firms in UAE</a>
 
+        </ul>
+    </li>
+    <li><strong><a href="https://www.alphaauditing.ae/accounting-services-in-dubai/">Accounting Services</a></strong>
+        <ul>
+            <li><a href="https://www.alphaauditing.ae/accounting-and-bookkeeping-services-in-dubai/">Accounting and Bookkeeping Services</a></li>
+          <li><a href="https://www.alphaauditing.ae/bookkeeping-services-uae/">Bookkeeping Services</a></li>
+          <li><a href="https://www.alphaauditing.ae/tax-accounting-services-uae/">TAX Accounting Services</a></li>
+          <li><a href="https://www.alphaauditing.ae/vat-accounting-services-uae/">VAT Accounting Services</a></li>
+        </ul>
+    </li>
+    <li><strong><a href="https://www.alphaauditing.ae/vat-services-in-dubai-uae/">VAT Services in Dubai</a></strong>
+        <ul>
+            <li><a href="https://www.alphaauditing.ae/vat-registration-services-in-uae/">VAT Registration Services</a></li>
+            <li><a href="https://www.alphaauditing.ae/vat-return-filing-in-dubai/">VAT Return Filing Services</a></li>
+            <li><a href="https://www.alphaauditing.ae/vat-refund-services-in-dubai/">VAT Refund Services</a></li>
+        </ul>
+    </li>
+    <li><strong><a href="https://www.alphaauditing.ae/corporate-tax-uae/">Corporate Tax Services</a></strong>
+        <ul>
+            <li><a href="https://www.alphaauditing.ae/corporate-tax-registration-services-in-uae/">Corporate Tax Registration Services</a></li>
+            <li><a href="https://www.alphaauditing.ae/corporate-tax-return-filing-in-uae/">Corporate Tax Return Filing</a></li>
+        </ul>
+    </li>
+    <li><a href="https://www.alphaauditing.ae/tax-consultancy-in-dubai/">Tax Consultancy</a></li>
+</ul>
+<p>With a team of dedicated  professionals we aim to deliver highly reliable financial services.</p>
 ## Testing
 
 This template includes integration tests using [Vitest](https://vitest.dev/). To run the tests locally:
