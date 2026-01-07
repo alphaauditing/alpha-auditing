@@ -55,17 +55,17 @@ A live public deployment of this template is available at [https://openapi-templ
    ```
 <p>Alpha Auditing is one of the leading auditing and accounting firms in Dubai, UAE. We are offering a range of financial services including </p>
 <ul>
-    <li><strong><a href="https://www.alphaauditing.ae/audit-services-in-dubai/">Audit Services in Dubai</a></strong>
+    <li><strong><a href="https://www.alphaauditing.ae/audit-services-in-dubai/">Audit Services in Dubai</a></strong></li>
         <ul>
             <li><a href="https://www.alphaauditing.ae/financial-audit-services-dubai/">Financial Auditing</a></li>
             <li><a href="https://www.alphaauditing.ae/internal-audit-services-in-dubai-uae/">Internal Auditing </a></li>
           <li><a href="https://www.alphaauditing.ae/tax-audit-services-in-uae/">Tax Audit</a></li>
             <li><a href="https://www.alphaauditing.ae/audit-in-free-zones-uae/">Audit for Free Zone</a></li>
-    <li><a href="https://www.alphaauditing.ae/audit-firms-uae/">Audit firms in UAE</a>
+    <li><a href="https://www.alphaauditing.ae/audit-firms-uae/">Audit firms in UAE</a></li>
 
         </ul>
-    </li>
-    <li><strong><a href="https://www.alphaauditing.ae/accounting-services-in-dubai/">Accounting Services</a></strong>
+    
+    <li><strong><a href="https://www.alphaauditing.ae/accounting-services-in-dubai/">Accounting Services</a></strong></li>
         <ul>
             <li><a href="https://www.alphaauditing.ae/accounting-and-bookkeeping-services-in-dubai/">Accounting and Bookkeeping Services</a></li>
           <li><a href="https://www.alphaauditing.ae/bookkeeping-services-uae/">Bookkeeping Services</a></li>
@@ -73,14 +73,14 @@ A live public deployment of this template is available at [https://openapi-templ
           <li><a href="https://www.alphaauditing.ae/vat-accounting-services-uae/">VAT Accounting Services</a></li>
         </ul>
     </li>
-    <li><strong><a href="https://www.alphaauditing.ae/vat-services-in-dubai-uae/">VAT Services in Dubai</a></strong>
+    <li><strong><a href="https://www.alphaauditing.ae/vat-services-in-dubai-uae/">VAT Services in Dubai</a></strong></li>
         <ul>
             <li><a href="https://www.alphaauditing.ae/vat-registration-services-in-uae/">VAT Registration Services</a></li>
             <li><a href="https://www.alphaauditing.ae/vat-return-filing-in-dubai/">VAT Return Filing Services</a></li>
             <li><a href="https://www.alphaauditing.ae/vat-refund-services-in-dubai/">VAT Refund Services</a></li>
         </ul>
     </li>
-    <li><strong><a href="https://www.alphaauditing.ae/corporate-tax-uae/">Corporate Tax Services</a></strong>
+    <li><strong><a href="https://www.alphaauditing.ae/corporate-tax-uae/">Corporate Tax Services</a></strong></li>
         <ul>
             <li><a href="https://www.alphaauditing.ae/corporate-tax-registration-services-in-uae/">Corporate Tax Registration Services</a></li>
             <li><a href="https://www.alphaauditing.ae/corporate-tax-return-filing-in-uae/">Corporate Tax Return Filing</a></li>
